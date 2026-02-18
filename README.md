@@ -19,9 +19,9 @@ SQL, 알고리즘, Python 기반 문제 해결과 백엔드 기초 역량을 집
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaew000&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_radius=12)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaew000&theme=tokyo-night)
 
 
 ---
