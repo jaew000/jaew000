@@ -3,7 +3,7 @@
 SQL, 알고리즘, Python 기반 문제 해결과 백엔드 기초 역량을 집중적으로 공부하고 있습니다.
 
 [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/Notebooks-2de2ce9b817b81218498c2864f3958b4)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:jacob2810@hufs.ac.kr)
 
 ---
 
